@@ -1,0 +1,14 @@
+C:\Users\Islam Mohamed\Documents\C# Projects\PoliceRecruits\PoliceRecruits\bin\Debug\net8.0\PoliceRecruits.exe
+C:\Users\Islam Mohamed\Documents\C# Projects\PoliceRecruits\PoliceRecruits\bin\Debug\net8.0\PoliceRecruits.deps.json
+C:\Users\Islam Mohamed\Documents\C# Projects\PoliceRecruits\PoliceRecruits\bin\Debug\net8.0\PoliceRecruits.runtimeconfig.json
+C:\Users\Islam Mohamed\Documents\C# Projects\PoliceRecruits\PoliceRecruits\bin\Debug\net8.0\PoliceRecruits.dll
+C:\Users\Islam Mohamed\Documents\C# Projects\PoliceRecruits\PoliceRecruits\bin\Debug\net8.0\PoliceRecruits.pdb
+C:\Users\Islam Mohamed\Documents\C# Projects\PoliceRecruits\PoliceRecruits\obj\Debug\net8.0\PoliceRecruits.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Islam Mohamed\Documents\C# Projects\PoliceRecruits\PoliceRecruits\obj\Debug\net8.0\PoliceRecruits.AssemblyInfoInputs.cache
+C:\Users\Islam Mohamed\Documents\C# Projects\PoliceRecruits\PoliceRecruits\obj\Debug\net8.0\PoliceRecruits.AssemblyInfo.cs
+C:\Users\Islam Mohamed\Documents\C# Projects\PoliceRecruits\PoliceRecruits\obj\Debug\net8.0\PoliceRecruits.csproj.CoreCompileInputs.cache
+C:\Users\Islam Mohamed\Documents\C# Projects\PoliceRecruits\PoliceRecruits\obj\Debug\net8.0\PoliceRecruits.dll
+C:\Users\Islam Mohamed\Documents\C# Projects\PoliceRecruits\PoliceRecruits\obj\Debug\net8.0\refint\PoliceRecruits.dll
+C:\Users\Islam Mohamed\Documents\C# Projects\PoliceRecruits\PoliceRecruits\obj\Debug\net8.0\PoliceRecruits.pdb
+C:\Users\Islam Mohamed\Documents\C# Projects\PoliceRecruits\PoliceRecruits\obj\Debug\net8.0\PoliceRecruits.genruntimeconfig.cache
+C:\Users\Islam Mohamed\Documents\C# Projects\PoliceRecruits\PoliceRecruits\obj\Debug\net8.0\ref\PoliceRecruits.dll
